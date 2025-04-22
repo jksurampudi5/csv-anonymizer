@@ -23,4 +23,4 @@ def anonymize_data(input_file='output/generated_data.csv', output_file='output/a
 
 if __name__ == "__main__":
     anonymize_data()
-    
+
